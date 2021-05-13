@@ -24,6 +24,6 @@ git commit -m 'deploy'
 
 git branch -m master main
 
-git push -f git@github.com:sockkingking/test-deploy.github.io.git main
+git push -f git@github.com:sockkingking/test-deploy.git main:gh-pages
 
 cd -
